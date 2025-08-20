@@ -1,4 +1,4 @@
-package org.example.entity;
+package org.example.domain;
 
 import org.example.enums.AccountType;
 import org.example.exception.InvalidDepositValueException;
